@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+/Users/estudianteudb-cep/Desktop/Android-II/.metadata/.plugins/org.eclipse.jdt.core
+2020052980.index
+1394594464.index
+3123246475.index
+177980822.index
