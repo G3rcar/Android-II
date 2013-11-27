@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;BackgroundService.java&apos; to &apos;Clase08Service/src/com.udb.modulo2.clase08.services&apos;&#x0A;- Original project: &apos;Clase08Service&apos;&#x0A;- Destination element: &apos;Clase08Service/src/com.udb.modulo2.clase08.services&apos;&#x0A;- Original element: &apos;com.udb.modulo2.clase08.BackgroundService.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.udb.modulo2.clase08.services" element1="/src&lt;com.udb.modulo2.clase08{BackgroundService.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1385558616378" units="1" version="1.0"/>
+</session>

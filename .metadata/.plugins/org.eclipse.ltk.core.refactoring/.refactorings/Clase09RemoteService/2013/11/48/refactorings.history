@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Clase09RemoteService/src/com/udb/modulo2/clase09/iQuoteService.aidl&apos; to &apos;IQuoteService.aidl&apos;" description="Rename resource &apos;iQuoteService.aidl&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/udb/modulo2/clase09/iQuoteService.aidl" name="IQuoteService.aidl" stamp="1385559746745" updateReferences="true"/>
+</session>

@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="android.util.Log"/>
 <fullyQualifiedTypeName name="java.io.InputStream"/>
 <fullyQualifiedTypeName name="java.io.OutputStream"/>
 <fullyQualifiedTypeName name="java.net.URL"/>
 <fullyQualifiedTypeName name="android.os.Environment"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
-<fullyQualifiedTypeName name="android.view.View"/>
 <fullyQualifiedTypeName name="android.widget.Toast"/>
 <fullyQualifiedTypeName name="android.widget.ImageView"/>
-<fullyQualifiedTypeName name="android.content.Intent"/>
 <fullyQualifiedTypeName name="com.udb.modulo2.clase07.services.CountService"/>
 <fullyQualifiedTypeName name="android.graphics.Bitmap"/>
 <fullyQualifiedTypeName name="android.graphics.BitmapFactory"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
 <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
-<fullyQualifiedTypeName name="android.support.v4.app.NotificationCompat"/>
 <fullyQualifiedTypeName name="android.app.Notification"/>
-<fullyQualifiedTypeName name="android.app.NotificationManager"/>
-<fullyQualifiedTypeName name="android.app.PendingIntent"/>
-<fullyQualifiedTypeName name="android.support.v4.app.TaskStackBuilder"/>
-<fullyQualifiedTypeName name="android.content.Context"/>
 <fullyQualifiedTypeName name="android.R"/>
 <fullyQualifiedTypeName name="android.R.drawable"/>
 <fullyQualifiedTypeName name="com.udb.modulo2.clase07.MainActivity"/>
 <fullyQualifiedTypeName name="com.udb.modulo2.clase07.ShowBitmapActivity"/>
 <fullyQualifiedTypeName name="com.udb.modulo2.clase07.R"/>
+<fullyQualifiedTypeName name="android.support.v4.app.NotificationCompat"/>
+<fullyQualifiedTypeName name="android.app.PendingIntent"/>
+<fullyQualifiedTypeName name="android.app.NotificationManager"/>
+<fullyQualifiedTypeName name="android.support.v4.app.TaskStackBuilder"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="com.udb.modulo2.clase08.services.BackgroundService"/>
 </qualifiedTypeNameHistroy>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
 <typeInfo handle="=Clase07IntentService/\/Users\/estudianteudb-cep\/Documents\/adt-bundle-mac-x86_64-20130717\/sdk\/platforms\/android-18\/android.jar&lt;android.app(IntentService.class[IntentService" modifiers="1057" timestamp="1374949662000"/>
-<typeInfo handle="=Clase07IntentService/src&lt;com.udb.modulo2.clase07.services{CountService.java[CountService" modifiers="1" timestamp="1385474307000"/>
+<typeInfo handle="=Clase07IntentService/src&lt;com.udb.modulo2.clase07.services{CountService.java[CountService" modifiers="1" timestamp="1385474582000"/>
 <typeInfo handle="=Clase07IntentService/src&lt;com.udb.modulo2.clase07{MainActivity.java[MainActivity" modifiers="1" timestamp="1385473233000"/>
+<typeInfo handle="=Clase08Service/\/Users\/estudianteudb-cep\/Documents\/adt-bundle-mac-x86_64-20130717\/sdk\/platforms\/android-18\/android.jar&lt;android.app(Service.class[Service" modifiers="1057" timestamp="1374949662000"/>
+<typeInfo handle="=Clase08Service/src&lt;com.udb.modulo2.clase08.services{BackgroundService.java[BackgroundService" modifiers="1" timestamp="1385559741000"/>
 </typeInfoHistroy>
