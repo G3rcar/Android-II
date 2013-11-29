@@ -1,0 +1,7 @@
+package com.udb.modulo2.clase11;
+
+import android.appwidget.AppWidgetProvider;
+
+public class ChgPictureWidget extends AppWidgetProvider {
+
+}

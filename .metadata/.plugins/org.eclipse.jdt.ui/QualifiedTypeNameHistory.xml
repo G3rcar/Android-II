@@ -19,12 +19,10 @@
 <fullyQualifiedTypeName name="com.udb.modulo2.clase07.ShowBitmapActivity"/>
 <fullyQualifiedTypeName name="com.udb.modulo2.clase07.R"/>
 <fullyQualifiedTypeName name="android.support.v4.app.NotificationCompat"/>
-<fullyQualifiedTypeName name="android.app.PendingIntent"/>
 <fullyQualifiedTypeName name="android.app.NotificationManager"/>
 <fullyQualifiedTypeName name="android.support.v4.app.TaskStackBuilder"/>
 <fullyQualifiedTypeName name="com.udb.modulo2.clase08.services.BackgroundService"/>
 <fullyQualifiedTypeName name="android.util.Log"/>
-<fullyQualifiedTypeName name="android.content.ComponentName"/>
 <fullyQualifiedTypeName name="android.content.ServiceConnection"/>
 <fullyQualifiedTypeName name="android.widget.Toast"/>
 <fullyQualifiedTypeName name="android.os.RemoteException"/>
@@ -33,5 +31,10 @@
 <fullyQualifiedTypeName name="android.widget.ToggleButton"/>
 <fullyQualifiedTypeName name="android.view.View"/>
 <fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="android.appwidget.AppWidgetManager"/>
+<fullyQualifiedTypeName name="android.widget.RemoteViews"/>
+<fullyQualifiedTypeName name="android.app.PendingIntent"/>
+<fullyQualifiedTypeName name="android.content.ComponentName"/>
 <fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
 </qualifiedTypeNameHistroy>
