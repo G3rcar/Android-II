@@ -13,7 +13,6 @@
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
 <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
 <fullyQualifiedTypeName name="android.app.Notification"/>
-<fullyQualifiedTypeName name="android.R"/>
 <fullyQualifiedTypeName name="android.R.drawable"/>
 <fullyQualifiedTypeName name="com.udb.modulo2.clase07.MainActivity"/>
 <fullyQualifiedTypeName name="com.udb.modulo2.clase07.ShowBitmapActivity"/>
@@ -29,12 +28,22 @@
 <fullyQualifiedTypeName name="android.os.IBinder"/>
 <fullyQualifiedTypeName name="android.widget.Button"/>
 <fullyQualifiedTypeName name="android.widget.ToggleButton"/>
-<fullyQualifiedTypeName name="android.view.View"/>
-<fullyQualifiedTypeName name="android.content.Context"/>
-<fullyQualifiedTypeName name="android.appwidget.AppWidgetManager"/>
-<fullyQualifiedTypeName name="android.widget.RemoteViews"/>
-<fullyQualifiedTypeName name="android.app.PendingIntent"/>
-<fullyQualifiedTypeName name="android.content.ComponentName"/>
-<fullyQualifiedTypeName name="android.content.Intent"/>
 <fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="android.app.AlarmManager"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="android.text.format.DateFormat"/>
+<fullyQualifiedTypeName name="android.content.ComponentName"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="yuku.ambilwarna.R"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="com.udb.modulo2.clase13.R"/>
+<fullyQualifiedTypeName name="android.os.Bundle"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="android.appwidget.AppWidgetManager"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="yuku.ambilwarna.AmbilWarnaDialog"/>
+<fullyQualifiedTypeName name="yuku.ambilwarna.AmbilWarnaDialog.OnAmbilWarnaListener"/>
+<fullyQualifiedTypeName name="android.app.PendingIntent"/>
+<fullyQualifiedTypeName name="android.widget.RemoteViews"/>
 </qualifiedTypeNameHistroy>
