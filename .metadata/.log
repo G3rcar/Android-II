@@ -4076,3 +4076,953 @@ Binding(CTRL+SHIFT+ARROW_LEFT,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.wst.sse.ui.structuredTextEditorScope,,cocoa,system)
+!SESSION 2013-12-04 07:29:10.741 -----------------------------------------------
+eclipse.buildId=v22.2.1-833290
+java.version=1.6.0_35
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -keyring /Users/estudianteudb-cep/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -keyring /Users/estudianteudb-cep/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.update.configurator 4 0 2013-12-04 07:29:18.121
+!MESSAGE Unable to access file "plugins/org.eclipse.cdt.launch_7.1.0.201302132326.jar!META-INF/MANIFEST.MF".
+
+!ENTRY org.eclipse.core.net 1 0 2013-12-04 07:29:37.860
+!MESSAGE System property http.proxyHost has been set to 168.243.3.4 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2013-12-04 07:29:37.865
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2013-12-04 07:29:37.865
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16|udb.edu.sv|*.udb.edu.sv by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2013-12-04 07:29:37.866
+!MESSAGE System property https.proxyHost has been set to 168.243.3.4 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2013-12-04 07:29:37.866
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.153
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project AmbilWarna
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.154
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase01Mapas
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.154
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase02OptionsMap
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.154
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase03LocationMap
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.155
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase04Threads
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.155
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase07IntentService
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.156
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase08Service
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.156
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase09ClientService
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.157
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase09RemoteService
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.157
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase10BasicWidget
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.158
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase11WidgetBroadcast
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.158
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase12WidgetCallActivity
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.158
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase13WidgetTmer
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.159
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase14WidgetConfig
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.159
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase15SearchActivity
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.160
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project Clase16SearchView
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.160
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project android-support-v7-appcompat
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:43.161
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project google-play-services_lib
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2013-12-04 07:29:45.731
+!MESSAGE DDMS files not found: /Users/estudianteudb-cep/Documents/adt-bundle-mac-x86_64-20130917/sdk/platform-tools/adb /Users/estudianteudb-cep/Documents/adt-bundle-mac-x86_64-20130917/sdk/tools/hprof-conv /Users/estudianteudb-cep/Documents/adt-bundle-mac-x86_64-20130917/sdk/tools/traceview 
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-12-04 07:29:49.455
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:55.298
+!MESSAGE fileChanged: failed to find manifest package for project Clase01Mapas
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:55.349
+!MESSAGE fileChanged: failed to find manifest package for project Clase01Mapas
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:55.349
+!MESSAGE fileChanged: failed to find manifest package for project Clase01Mapas
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:55.350
+!MESSAGE fileChanged: failed to find manifest package for project Clase02OptionsMap
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:55.350
+!MESSAGE fileChanged: failed to find manifest package for project Clase02OptionsMap
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:55.351
+!MESSAGE fileChanged: failed to find manifest package for project Clase02OptionsMap
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:57.483
+!MESSAGE fileChanged: failed to find manifest package for project Clase03LocationMap
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:57.483
+!MESSAGE fileChanged: failed to find manifest package for project Clase03LocationMap
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:57.484
+!MESSAGE fileChanged: failed to find manifest package for project Clase03LocationMap
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:57.485
+!MESSAGE fileChanged: failed to find manifest package for project Clase04Threads
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:57.485
+!MESSAGE fileChanged: failed to find manifest package for project Clase07IntentService
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:57.486
+!MESSAGE fileChanged: failed to find manifest package for project Clase08Service
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:59.069
+!MESSAGE fileChanged: failed to find manifest package for project Clase09ClientService
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:59.073
+!MESSAGE fileChanged: failed to find manifest package for project Clase09RemoteService
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:59.074
+!MESSAGE fileChanged: failed to find manifest package for project Clase10BasicWidget
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:59.074
+!MESSAGE fileChanged: failed to find manifest package for project Clase11WidgetBroadcast
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:59.075
+!MESSAGE fileChanged: failed to find manifest package for project Clase12WidgetCallActivity
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:59.076
+!MESSAGE fileChanged: failed to find manifest package for project Clase13WidgetTmer
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:59.076
+!MESSAGE fileChanged: failed to find manifest package for project Clase14WidgetConfig
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:29:59.077
+!MESSAGE fileChanged: failed to find manifest package for project Clase14WidgetConfig
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:00.279
+!MESSAGE fileChanged: failed to find manifest package for project Clase15SearchActivity
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:00.279
+!MESSAGE fileChanged: failed to find manifest package for project Clase15SearchActivity
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:00.280
+!MESSAGE fileChanged: failed to find manifest package for project Clase16SearchView
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:00.280
+!MESSAGE fileChanged: failed to find manifest package for project Clase16SearchView
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:00.281
+!MESSAGE fileChanged: failed to find manifest package for project android-support-v7-appcompat
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:00.281
+!MESSAGE fileChanged: failed to find manifest package for project google-play-services_lib
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:10.994
+!MESSAGE fileChanged: failed to find manifest package for project Clase14WidgetConfig
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:10.994
+!MESSAGE fileChanged: failed to find manifest package for project Clase14WidgetConfig
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:11.465
+!MESSAGE fileChanged: failed to find manifest package for project Clase01Mapas
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:11.466
+!MESSAGE fileChanged: failed to find manifest package for project Clase01Mapas
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:11.485
+!MESSAGE fileChanged: failed to find manifest package for project Clase01Mapas
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:11.784
+!MESSAGE fileChanged: failed to find manifest package for project Clase02OptionsMap
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:11.784
+!MESSAGE fileChanged: failed to find manifest package for project Clase02OptionsMap
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:11.785
+!MESSAGE fileChanged: failed to find manifest package for project Clase02OptionsMap
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:12.005
+!MESSAGE fileChanged: failed to find manifest package for project Clase03LocationMap
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:12.006
+!MESSAGE fileChanged: failed to find manifest package for project Clase03LocationMap
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:12.006
+!MESSAGE fileChanged: failed to find manifest package for project Clase03LocationMap
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:12.208
+!MESSAGE fileChanged: failed to find manifest package for project Clase15SearchActivity
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:12.209
+!MESSAGE fileChanged: failed to find manifest package for project Clase15SearchActivity
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:12.407
+!MESSAGE fileChanged: failed to find manifest package for project Clase16SearchView
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:12.407
+!MESSAGE fileChanged: failed to find manifest package for project Clase16SearchView
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:32.106
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AmbilWarna/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AmbilWarna/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:34.130
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase01Mapas/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase01Mapas/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:34.257
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase02OptionsMap/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase02OptionsMap/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:34.419
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase03LocationMap/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase03LocationMap/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:34.502
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase04Threads/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase04Threads/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:34.698
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase07IntentService/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase07IntentService/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:34.831
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase08Service/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase08Service/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:34.996
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase09ClientService/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase09ClientService/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:35.156
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase09RemoteService/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase09RemoteService/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:35.338
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase10BasicWidget/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase10BasicWidget/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:35.685
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase12WidgetCallActivity/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase12WidgetCallActivity/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:35.856
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase13WidgetTmer/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase13WidgetTmer/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:36.056
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase14WidgetConfig/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase14WidgetConfig/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:36.220
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase15SearchActivity/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase15SearchActivity/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:36.374
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase16SearchView/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/Clase16SearchView/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:37.841
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/android-support-v7-appcompat/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/android-support-v7-appcompat/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:30:39.636
+!MESSAGE File is Out of sync
+!STACK 0
+com.android.io.StreamException: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/google-play-services_lib/AndroidManifest.xml'.
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:55)
+	at com.android.ide.common.xml.AndroidManifestParser.parse(AndroidManifestParser.java:609)
+	at com.android.ide.eclipse.adt.internal.project.AndroidManifestHelper.parseUnchecked(AndroidManifestHelper.java:75)
+	at com.android.ide.eclipse.adt.internal.build.builders.PreCompilerBuilder.build(PreCompilerBuilder.java:454)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/google-play-services_lib/AndroidManifest.xml'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at com.android.ide.eclipse.adt.io.IFileWrapper.getContents(IFileWrapper.java:49)
+	... 15 more
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:33:10.680
+!MESSAGE Failed to load properties file for project 'Clase17MediaPlayerSound'
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:37:56.443
+!MESSAGE Failed to load properties file for project 'Clase18VideoView'
+
+!ENTRY org.eclipse.jface 2 0 2013-12-04 07:37:57.569
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-12-04 07:37:57.569
+!MESSAGE A conflict occurred for COMMAND+SHIFT+F:
+Binding(COMMAND+SHIFT+F,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.format,Format,
+		Format the selected text,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@365fc710,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(COMMAND+SHIFT+F,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.format.document,Format,
+		Format selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@328c3770,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-12-04 07:37:57.569
+!MESSAGE A conflict occurred for CTRL+SHIFT+ARROW_DOWN:
+Binding(CTRL+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.wst.xml.ui.nextSibling,Next Sibling,
+		Go to Next Sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@7b15d277,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,cocoa,system)
+Binding(CTRL+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.last,Restore Last Selection,
+		Restore last selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@ac13b15,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.core.runtime.xml,,cocoa,system)
+Binding(CTRL+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.last,Restore Last Selection,
+		Restore last selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@4a060753,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-12-04 07:37:57.569
+!MESSAGE A conflict occurred for COMMAND+SHIFT+\:
+Binding(COMMAND+SHIFT+\,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.remove.block.comment,Remove Block Comment,
+		Remove the block comment enclosing the selection,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@51cb001c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(COMMAND+SHIFT+\,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.remove.block.comment,Remove Block Comment,
+		Remove Block Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@29421875,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-12-04 07:37:57.569
+!MESSAGE A conflict occurred for CTRL+SHIFT+ARROW_RIGHT:
+Binding(CTRL+SHIFT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.next,Select Next Element,
+		Expand selection to include next sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@17973271,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,cocoa,system)
+Binding(CTRL+SHIFT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.next,Select Next Element,
+		Expand selection to include next sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@66745837,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-12-04 07:37:57.569
+!MESSAGE A conflict occurred for COMMAND+/:
+Binding(COMMAND+/,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.toggle.comment,Toggle Comment,
+		Toggle comment the selected lines,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@604bb76d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(COMMAND+/,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.add.block.comment,Add Block Comment,
+		Add Block Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1c7caac5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-12-04 07:37:57.569
+!MESSAGE A conflict occurred for COMMAND+SHIFT+P:
+Binding(COMMAND+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.goto.matching.bracket,Go to Matching Bracket,
+		Moves the cursor to the matching bracket,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@af7867f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(COMMAND+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.goto.matching.bracket,Matching Character,
+		Go to Matching Character,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@5bb06322,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-12-04 07:37:57.569
+!MESSAGE A conflict occurred for COMMAND+I:
+Binding(COMMAND+I,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.indent,Correct Indentation,
+		Corrects the indentation of the selected lines,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@9f0179,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(COMMAND+I,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.format.active.elements,Format Active Elements,
+		Format active elements,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@6e92992c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+Binding(COMMAND+I,
+	ParameterizedCommand(Command(org.eclipse.ui.file.properties,Properties,
+		Display the properties of the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@4f35ecf1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-12-04 07:37:57.569
+!MESSAGE A conflict occurred for COMMAND+O:
+Binding(COMMAND+O,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.show.outline,Quick Outline,
+		Show the quick outline for the editor input,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@4719af40,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(COMMAND+O,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.quick_outline,Quick Outline,
+		Show the quick outline for the editor input,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@6740b737,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-12-04 07:37:57.569
+!MESSAGE A conflict occurred for COMMAND+SHIFT+C:
+Binding(COMMAND+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.toggle.comment,Toggle Comment,
+		Toggle comment the selected lines,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@604bb76d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(COMMAND+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.toggle.comment,Toggle Comment,
+		Toggle Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@6f967348,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-12-04 07:37:57.569
+!MESSAGE A conflict occurred for CTRL+SHIFT+ARROW_UP:
+Binding(CTRL+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.enclosing,Select Enclosing Element,
+		Expand selection to include enclosing element,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@49bcb0d6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,cocoa,system)
+Binding(CTRL+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.wst.xml.ui.previousSibling,Previous Sibling,
+		Go to Previous Sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@760ee920,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,cocoa,system)
+Binding(CTRL+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.enclosing,Select Enclosing Element,
+		Expand selection to include enclosing element,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@3884b2bb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.core.runtime.xml,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-12-04 07:37:57.569
+!MESSAGE A conflict occurred for CTRL+SHIFT+ARROW_LEFT:
+Binding(CTRL+SHIFT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.previous,Select Previous Element,
+		Expand selection to include previous sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@2fdd76c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,cocoa,system)
+Binding(CTRL+SHIFT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.previous,Select Previous Element,
+		Expand selection to include previous sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@5de2d159,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,cocoa,system)
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-12-04 07:44:32.540
+!MESSAGE Failed to load properties file for project 'Clase19RecordSound'
+
+!ENTRY org.eclipse.ui 4 0 2013-12-04 07:57:50.974
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4361)
+	at org.eclipse.swt.SWT.error(SWT.java:4276)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3946)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3623)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1053)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:942)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+Caused by: java.lang.NullPointerException
+	at com.android.ddmuilib.logcat.LogCatPanel.updateUnreadCount(LogCatPanel.java:1212)
+	at com.android.ddmuilib.logcat.LogCatPanel.bufferChanged(LogCatPanel.java:1168)
+	at com.android.ddmuilib.logcat.LogCatPanel.reloadLogBuffer(LogCatPanel.java:1196)
+	at com.android.ddmuilib.logcat.LogCatPanel.updateAppliedFilters(LogCatPanel.java:1136)
+	at com.android.ddmuilib.logcat.LogCatPanel.filterSelectionChanged(LogCatPanel.java:1117)
+	at com.android.ddmuilib.logcat.LogCatPanel.selectFilterAt(LogCatPanel.java:604)
+	at com.android.ddmuilib.logcat.LogCatPanel.selectTransientAppFilter(LogCatPanel.java:576)
+	at com.android.ide.eclipse.ddms.views.LogCatView.selectTransientAppFilter(LogCatView.java:118)
+	at com.android.ide.eclipse.ddms.LogCatMonitor$4.run(LogCatMonitor.java:220)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more

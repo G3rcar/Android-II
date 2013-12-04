@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=Clase07IntentService/src&lt;com.udb.modulo2.clase07.services{CountService.java[CountService" modifiers="1" timestamp="1385474582000"/>
-<typeInfo handle="=Clase07IntentService/src&lt;com.udb.modulo2.clase07{MainActivity.java[MainActivity" modifiers="1" timestamp="1385473233000"/>
-<typeInfo handle="=Clase08Service/src&lt;com.udb.modulo2.clase08.services{BackgroundService.java[BackgroundService" modifiers="1" timestamp="1385559741000"/>
-<typeInfo handle="=Clase09RemoteService/\/Users\/estudianteudb-cep\/Documents\/adt-bundle-mac-x86_64-20130917\/sdk\/platforms\/android-18\/android.jar&lt;android.app(Service.class[Service" modifiers="1057" timestamp="1378835764000"/>
-<typeInfo handle="=Clase10BasicWidget/src&lt;com.udb.modulo2.clase10{BasicWidget.java[BasicWidget" modifiers="1" timestamp="1385646353000"/>
-<typeInfo handle="=Clase11WidgetBroadcast/\/Users\/estudianteudb-cep\/Documents\/adt-bundle-mac-x86_64-20130917\/sdk\/platforms\/android-19\/android.jar&lt;android.content(BroadcastReceiver.class[BroadcastReceiver" modifiers="1057" timestamp="1383760462000"/>
-<typeInfo handle="=Clase13WidgetTmer/\/Users\/estudianteudb-cep\/Documents\/adt-bundle-mac-x86_64-20130917\/sdk\/platforms\/android-19\/android.jar&lt;android.app(Service.class[Service" modifiers="1057" timestamp="1383760462000"/>
-<typeInfo handle="=Clase10BasicWidget/\/Users\/estudianteudb-cep\/Documents\/adt-bundle-mac-x86_64-20130917\/sdk\/platforms\/android-19\/android.jar&lt;android.appwidget(AppWidgetProvider.class[AppWidgetProvider" modifiers="33" timestamp="1383760462000"/>
-<typeInfo handle="=Clase14WidgetConfig/\/Users\/estudianteudb-cep\/Documents\/adt-bundle-mac-x86_64-20130917\/sdk\/platforms\/android-19\/android.jar&lt;android.app(Activity.class[Activity" modifiers="33" timestamp="1383760462000"/>
-<typeInfo handle="=Clase15SearchActivity/\/Users\/estudianteudb-cep\/Documents\/adt-bundle-mac-x86_64-20130917\/sdk\/platforms\/android-19\/android.jar&lt;android.database.sqlite(SQLiteOpenHelper.class[SQLiteOpenHelper" modifiers="1057" timestamp="1383760462000"/>
+<typeInfo handle="=Clase07IntentService/src&lt;com.udb.modulo2.clase07.services{CountService.java[CountService" modifiers="1" timestamp="1386163189000"/>
+<typeInfo handle="=Clase07IntentService/src&lt;com.udb.modulo2.clase07{MainActivity.java[MainActivity" modifiers="1" timestamp="1386163189000"/>
+<typeInfo handle="=Clase08Service/src&lt;com.udb.modulo2.clase08.services{BackgroundService.java[BackgroundService" modifiers="1" timestamp="1386163189000"/>
+<typeInfo handle="=Clase10BasicWidget/src&lt;com.udb.modulo2.clase10{BasicWidget.java[BasicWidget" modifiers="1" timestamp="1386163189000"/>
 </typeInfoHistroy>
