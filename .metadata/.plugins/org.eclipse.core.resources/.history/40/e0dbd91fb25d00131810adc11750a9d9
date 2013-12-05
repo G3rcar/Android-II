@@ -1,0 +1,33 @@
+package com.udb.modulo2.clase21;
+
+import android.net.Uri;
+import android.os.Bundle;
+import android.app.Activity;
+import android.content.SharedPreferences;
+import android.view.Menu;
+
+public class MainActivity extends Activity {
+	
+	SharedPreferences data;
+	private static final int CAPTURE_VIDEO_ACTIVITY_REQUEST_CODE = 200;
+	private static final int RESULT_LOAD_VIDEO = 300;
+	private Uri fileUri;
+	private int contvideo = 0;
+	
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+		
+		data = getSharedPreferences("preferencias", MODE_PRIVATE);
+        contvideo = data.getInt("contvideo", 0);
+	}
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.main, menu);
+		return true;
+	}
+
+}
