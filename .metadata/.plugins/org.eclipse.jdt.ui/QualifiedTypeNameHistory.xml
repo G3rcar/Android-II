@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.udb.modulo2.clase07.MainActivity"/>
-<fullyQualifiedTypeName name="com.udb.modulo2.clase07.ShowBitmapActivity"/>
-<fullyQualifiedTypeName name="com.udb.modulo2.clase07.R"/>
-<fullyQualifiedTypeName name="android.support.v4.app.NotificationCompat"/>
-<fullyQualifiedTypeName name="android.app.NotificationManager"/>
-<fullyQualifiedTypeName name="android.support.v4.app.TaskStackBuilder"/>
-<fullyQualifiedTypeName name="com.udb.modulo2.clase08.services.BackgroundService"/>
-<fullyQualifiedTypeName name="android.content.ServiceConnection"/>
-<fullyQualifiedTypeName name="android.os.RemoteException"/>
 <fullyQualifiedTypeName name="android.os.IBinder"/>
 <fullyQualifiedTypeName name="android.widget.ToggleButton"/>
 <fullyQualifiedTypeName name="android.widget.TextView"/>
@@ -35,20 +26,16 @@
 <fullyQualifiedTypeName name="android.support.v7.widget.SearchView"/>
 <fullyQualifiedTypeName name="android.support.v4.view.MenuItemCompat"/>
 <fullyQualifiedTypeName name="android.media.MediaRecorder"/>
-<fullyQualifiedTypeName name="android.media.MediaPlayer"/>
 <fullyQualifiedTypeName name="android.widget.LinearLayout"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
-<fullyQualifiedTypeName name="android.util.Log"/>
 <fullyQualifiedTypeName name="android.widget.Button"/>
 <fullyQualifiedTypeName name="android.support.v4.view.ViewPager"/>
 <fullyQualifiedTypeName name="android.support.v4.view.PagerAdapter"/>
 <fullyQualifiedTypeName name="android.widget.ImageView"/>
 <fullyQualifiedTypeName name="android.view.ViewGroup"/>
-<fullyQualifiedTypeName name="android.content.Context"/>
 <fullyQualifiedTypeName name="android.content.SharedPreferences"/>
 <fullyQualifiedTypeName name="android.content.Intent"/>
 <fullyQualifiedTypeName name="android.provider.MediaStore"/>
-<fullyQualifiedTypeName name="android.widget.Toast"/>
 <fullyQualifiedTypeName name="android.net.Uri"/>
 <fullyQualifiedTypeName name="android.widget.ListView"/>
 <fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
@@ -57,7 +44,20 @@
 <fullyQualifiedTypeName name="android.os.Environment"/>
 <fullyQualifiedTypeName name="java.io.FilenameFilter"/>
 <fullyQualifiedTypeName name="android.widget.AdapterView"/>
-<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="android.media.MediaPlayer"/>
+<fullyQualifiedTypeName name="android.app.ProgressDialog"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="android.media.MediaPlayer.OnErrorListener"/>
+<fullyQualifiedTypeName name="android.media.MediaPlayer.OnCompletionListener"/>
+<fullyQualifiedTypeName name="android.media.MediaPlayer.OnPreparedListener"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="android.media.AudioManager"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
 <fullyQualifiedTypeName name="android.widget.VideoView"/>
 <fullyQualifiedTypeName name="android.widget.MediaController"/>
+<fullyQualifiedTypeName name="android.graphics.Paint"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="android.graphics.Canvas"/>
+<fullyQualifiedTypeName name="android.graphics.Color"/>
 </qualifiedTypeNameHistroy>
