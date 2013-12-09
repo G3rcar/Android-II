@@ -1,7 +1,0 @@
-package com.udb.modulo2.clase13;
-
-import android.appwidget.AppWidgetProvider;
-
-public class TimeWidgetProvider extends AppWidgetProvider {
-
-}
