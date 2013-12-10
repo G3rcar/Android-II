@@ -1,0 +1,89 @@
+package com.udb.modulo2.clase30;
+
+import android.os.Bundle;
+import android.app.Activity;
+import android.view.Menu;
+import android.view.View;
+import android.view.animation.Animation;
+import android.view.animation.Animation.AnimationListener;
+import android.view.animation.AnimationUtils;
+import android.widget.TextView;
+import android.widget.Toast;
+
+public class MainActivity extends Activity implements AnimationListener {
+	
+	TextView txtAnim,txtSec;
+	Animation animin,animout,animsec;
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+		
+		setUpOne();
+		setUpTwo();
+        
+	}
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.main, menu);
+		return true;
+	}
+	
+	
+	public void startAnim(View view){
+		txtAnim.setVisibility(View.VISIBLE);        
+        txtAnim.startAnimation(animin);              
+	}
+
+	@Override
+	public void onAnimationEnd(Animation animation) {
+		if (animation == animin) {
+            Toast.makeText(getApplicationContext(), "Animacion 1 Termino.", Toast.LENGTH_SHORT).show();
+            txtAnim.startAnimation(animout);
+        }
+		if (animation == animin) {
+            Toast.makeText(getApplicationContext(), "Animacion 2 Termino.", Toast.LENGTH_SHORT).show();
+        }
+		if (animation == animsec) {
+			Toast.makeText(getApplicationContext(), "Animacion 3 Termino.", Toast.LENGTH_SHORT).show();
+		}
+	}
+
+	@Override
+	public void onAnimationRepeat(Animation animation) {
+
+	}
+
+	@Override
+	public void onAnimationStart(Animation animation) {
+
+	}
+	
+	
+	private void setUpOne(){
+		txtAnim = (TextView) findViewById(R.id.txtAnim);
+	      
+        animin = AnimationUtils.loadAnimation(getApplicationContext(),R.anim.zoom_in);
+        animin.setAnimationListener(this);
+        animout = AnimationUtils.loadAnimation(getApplicationContext(),R.anim.zoom_out);
+        animin.setAnimationListener(this);
+
+        
+        txtAnim.setVisibility(View.VISIBLE);        
+        txtAnim.startAnimation(animin);
+	}
+	
+	private void setUpTwo(){
+		txtSec = (TextView) findViewById(R.id.txvSecuencial);
+	      
+        animsec = AnimationUtils.loadAnimation(getApplicationContext(),R.anim.sequencial);
+        animsec.setAnimationListener(this);
+        
+        txtSec.setVisibility(View.VISIBLE);        
+        txtSec.startAnimation(animsec);
+	}
+
+}
