@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="yuku.ambilwarna.R"/>
-<fullyQualifiedTypeName name="android.R"/>
-<fullyQualifiedTypeName name="com.udb.modulo2.clase13.R"/>
-<fullyQualifiedTypeName name="android.os.Bundle"/>
-<fullyQualifiedTypeName name="android.appwidget.AppWidgetManager"/>
-<fullyQualifiedTypeName name="yuku.ambilwarna.AmbilWarnaDialog"/>
-<fullyQualifiedTypeName name="yuku.ambilwarna.AmbilWarnaDialog.OnAmbilWarnaListener"/>
-<fullyQualifiedTypeName name="android.app.PendingIntent"/>
-<fullyQualifiedTypeName name="android.widget.RemoteViews"/>
-<fullyQualifiedTypeName name="android.content.ContentValues"/>
 <fullyQualifiedTypeName name="android.database.Cursor"/>
-<fullyQualifiedTypeName name="android.support.v7.app.ActionBarActivity"/>
 <fullyQualifiedTypeName name="android.app.SearchManager"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="android.view.MenuItem"/>
 <fullyQualifiedTypeName name="android.support.v7.widget.SearchView"/>
 <fullyQualifiedTypeName name="android.support.v4.view.MenuItemCompat"/>
 <fullyQualifiedTypeName name="android.media.MediaRecorder"/>
@@ -26,11 +14,8 @@
 <fullyQualifiedTypeName name="android.widget.ImageView"/>
 <fullyQualifiedTypeName name="android.view.ViewGroup"/>
 <fullyQualifiedTypeName name="android.content.SharedPreferences"/>
-<fullyQualifiedTypeName name="android.content.Intent"/>
 <fullyQualifiedTypeName name="android.provider.MediaStore"/>
 <fullyQualifiedTypeName name="android.net.Uri"/>
-<fullyQualifiedTypeName name="android.widget.ListView"/>
-<fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
 <fullyQualifiedTypeName name="android.widget.AdapterView.OnItemClickListener"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="android.os.Environment"/>
@@ -38,7 +23,6 @@
 <fullyQualifiedTypeName name="android.widget.AdapterView"/>
 <fullyQualifiedTypeName name="android.media.MediaPlayer"/>
 <fullyQualifiedTypeName name="android.app.ProgressDialog"/>
-<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
 <fullyQualifiedTypeName name="android.media.MediaPlayer.OnErrorListener"/>
 <fullyQualifiedTypeName name="android.media.MediaPlayer.OnCompletionListener"/>
 <fullyQualifiedTypeName name="android.media.MediaPlayer.OnPreparedListener"/>
@@ -53,11 +37,27 @@
 <fullyQualifiedTypeName name="android.graphics.Color"/>
 <fullyQualifiedTypeName name="android.graphics.Canvas"/>
 <fullyQualifiedTypeName name="android.graphics.drawable.shapes.OvalShape"/>
-<fullyQualifiedTypeName name="android.content.Context"/>
-<fullyQualifiedTypeName name="android.widget.TextView"/>
 <fullyQualifiedTypeName name="android.view.animation.Animation"/>
 <fullyQualifiedTypeName name="android.view.animation.AnimationUtils"/>
 <fullyQualifiedTypeName name="android.view.animation.Animation.AnimationListener"/>
+<fullyQualifiedTypeName name="android.support.v7.app.ActionBarActivity"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.bluetooth.BluetoothAdapter"/>
+<fullyQualifiedTypeName name="android.view.MenuItem"/>
+<fullyQualifiedTypeName name="android.bluetooth.BluetoothDevice"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
 <fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="android.widget.ToggleButton"/>
 <fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
+<fullyQualifiedTypeName name="android.widget.ListView"/>
+<fullyQualifiedTypeName name="android.net.wifi.WifiManager"/>
+<fullyQualifiedTypeName name="android.os.Handler"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="android.content.IntentFilter"/>
+<fullyQualifiedTypeName name="android.content.BroadcastReceiver"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="android.net.wifi.ScanResult"/>
 </qualifiedTypeNameHistroy>
