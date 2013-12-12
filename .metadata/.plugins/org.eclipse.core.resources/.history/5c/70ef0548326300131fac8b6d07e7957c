@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Clase34 Wifi Configuration</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btnconnect">Conectar WIFI</string>
+    <string name="btnconnectwep">Conectar Wifi Wep</string>
+
+</resources>
