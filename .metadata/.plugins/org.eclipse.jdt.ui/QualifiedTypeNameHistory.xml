@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="android.widget.VideoView"/>
-<fullyQualifiedTypeName name="android.widget.MediaController"/>
-<fullyQualifiedTypeName name="android.graphics.drawable.ShapeDrawable"/>
-<fullyQualifiedTypeName name="android.view.MotionEvent"/>
-<fullyQualifiedTypeName name="android.graphics.Path"/>
-<fullyQualifiedTypeName name="android.graphics.Paint"/>
-<fullyQualifiedTypeName name="android.graphics.Color"/>
-<fullyQualifiedTypeName name="android.graphics.Canvas"/>
-<fullyQualifiedTypeName name="android.graphics.drawable.shapes.OvalShape"/>
-<fullyQualifiedTypeName name="android.view.animation.Animation"/>
-<fullyQualifiedTypeName name="android.view.animation.AnimationUtils"/>
 <fullyQualifiedTypeName name="android.view.animation.Animation.AnimationListener"/>
 <fullyQualifiedTypeName name="android.support.v7.app.ActionBarActivity"/>
-<fullyQualifiedTypeName name="android.widget.TextView"/>
 <fullyQualifiedTypeName name="android.bluetooth.BluetoothAdapter"/>
-<fullyQualifiedTypeName name="android.view.MenuItem"/>
 <fullyQualifiedTypeName name="android.bluetooth.BluetoothDevice"/>
 <fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="android.os.Handler"/>
@@ -37,7 +24,6 @@
 <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
 <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
 <fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
-<fullyQualifiedTypeName name="android.widget.ListView"/>
 <fullyQualifiedTypeName name="org.json.JSONArray"/>
 <fullyQualifiedTypeName name="org.apache.http.client.HttpClient"/>
 <fullyQualifiedTypeName name="org.apache.http.client.methods.HttpGet"/>
@@ -45,10 +31,6 @@
 <fullyQualifiedTypeName name="java.io.InputStream"/>
 <fullyQualifiedTypeName name="java.io.BufferedReader"/>
 <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
-<fullyQualifiedTypeName name="android.widget.EditText"/>
-<fullyQualifiedTypeName name="android.os.AsyncTask"/>
-<fullyQualifiedTypeName name="android.util.Log"/>
-<fullyQualifiedTypeName name="android.widget.Toast"/>
 <fullyQualifiedTypeName name="org.json.JSONObject"/>
 <fullyQualifiedTypeName name="org.apache.http.HttpResponse"/>
 <fullyQualifiedTypeName name="org.apache.http.StatusLine"/>
@@ -58,6 +40,24 @@
 <fullyQualifiedTypeName name="java.io.UnsupportedEncodingException"/>
 <fullyQualifiedTypeName name="org.apache.http.client.ClientProtocolException"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
-<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.os.AsyncTask"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="org.ksoap2.serialization.SoapObject"/>
+<fullyQualifiedTypeName name="org.ksoap2.serialization.PropertyInfo"/>
+<fullyQualifiedTypeName name="org.ksoap2.serialization.SoapSerializationEnvelope"/>
+<fullyQualifiedTypeName name="org.ksoap2.SoapEnvelope"/>
+<fullyQualifiedTypeName name="org.ksoap2.transport.HttpTransportSE"/>
+<fullyQualifiedTypeName name="org.ksoap2.serialization.SoapPrimitive"/>
+<fullyQualifiedTypeName name="android.view.MenuItem"/>
 <fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="android.widget.ListView"/>
+<fullyQualifiedTypeName name="android.database.Cursor"/>
+<fullyQualifiedTypeName name="android.support.v4.widget.SimpleCursorAdapter"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="android.widget.EditText"/>
+<fullyQualifiedTypeName name="android.net.Uri"/>
+<fullyQualifiedTypeName name="android.content.ContentValues"/>
+<fullyQualifiedTypeName name="android.provider.UserDictionary"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
 </qualifiedTypeNameHistroy>
